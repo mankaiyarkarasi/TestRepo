@@ -1,0 +1,239 @@
+INFO    2021-02-25 11:16:53,065 [main] OracleConnection  - Connecting to db
+FINFO    2021-02-25 11:16:53,837 [main] OracleConnection  - Executing Statement
+FDEBUG   2021-02-25 11:16:53,907 [main] OracleConnection  - 6142
+FDEBUG   2021-02-25 11:16:53,907 [main] OracleConnection  - Mankaiyarkarasi
+FDEBUG   2021-02-25 11:16:53,908 [main] OracleConnection  - N
+FDEBUG   2021-02-25 11:16:53,908 [main] OracleConnection  - 23
+FDEBUG   2021-02-25 11:16:53,908 [main] OracleConnection  - Bangalore
+FDEBUG   2021-02-25 11:16:53,908 [main] OracleConnection  - 6143
+FDEBUG   2021-02-25 11:16:53,908 [main] OracleConnection  - Kaviya
+FDEBUG   2021-02-25 11:16:53,908 [main] OracleConnection  - N
+FDEBUG   2021-02-25 11:16:53,908 [main] OracleConnection  - 22
+FDEBUG   2021-02-25 11:16:53,909 [main] OracleConnection  - Chennai
+FDEBUG   2021-02-25 11:16:53,909 [main] OracleConnection  - 4666
+FDEBUG   2021-02-25 11:16:53,909 [main] OracleConnection  - Dharani
+FDEBUG   2021-02-25 11:16:53,909 [main] OracleConnection  - K
+FDEBUG   2021-02-25 11:16:53,910 [main] OracleConnection  - 35
+FDEBUG   2021-02-25 11:16:53,910 [main] OracleConnection  - Bangalore
+FDEBUG   2021-02-25 11:16:53,910 [main] OracleConnection  - 6789
+FDEBUG   2021-02-25 11:16:53,910 [main] OracleConnection  - Nagu
+FDEBUG   2021-02-25 11:16:53,910 [main] OracleConnection  - P
+FDEBUG   2021-02-25 11:16:53,910 [main] OracleConnection  - 45
+FDEBUG   2021-02-25 11:16:53,911 [main] OracleConnection  - Pune
+FDEBUG   2021-02-25 11:16:53,911 [main] OracleConnection  - 4544
+FDEBUG   2021-02-25 11:16:53,911 [main] OracleConnection  - Venkatesh
+FDEBUG   2021-02-25 11:16:53,911 [main] OracleConnection  - S
+FDEBUG   2021-02-25 11:16:53,911 [main] OracleConnection  - 26
+FDEBUG   2021-02-25 11:16:53,911 [main] OracleConnection  - Pune
+FDEBUG   2021-02-25 11:16:53,912 [main] OracleConnection  - 3445
+FDEBUG   2021-02-25 11:16:53,912 [main] OracleConnection  - Hari
+FDEBUG   2021-02-25 11:16:53,912 [main] OracleConnection  - Krishna
+FDEBUG   2021-02-25 11:16:53,912 [main] OracleConnection  - 27
+FDEBUG   2021-02-25 11:16:53,912 [main] OracleConnection  - Noida
+FDEBUG   2021-02-25 11:16:53,912 [main] OracleConnection  - 5667
+FDEBUG   2021-02-25 11:16:53,912 [main] OracleConnection  - Amani
+FDEBUG   2021-02-25 11:16:53,912 [main] OracleConnection  - Paladugu
+FDEBUG   2021-02-25 11:16:53,913 [main] OracleConnection  - 22
+FDEBUG   2021-02-25 11:16:53,913 [main] OracleConnection  - Mumbai
+FDEBUG   2021-02-25 11:16:53,913 [main] OracleConnection  - 6767
+FDEBUG   2021-02-25 11:16:53,913 [main] OracleConnection  - Shankar
+FDEBUG   2021-02-25 11:16:53,913 [main] OracleConnection  - R
+FDEBUG   2021-02-25 11:16:53,913 [main] OracleConnection  - 36
+FDEBUG   2021-02-25 11:16:53,913 [main] OracleConnection  - Coimbatore
+FDEBUG   2021-02-25 11:16:53,913 [main] OracleConnection  - 4549
+FDEBUG   2021-02-25 11:16:53,913 [main] OracleConnection  - Naveena
+FDEBUG   2021-02-25 11:16:53,913 [main] OracleConnection  - D
+FDEBUG   2021-02-25 11:16:53,913 [main] OracleConnection  - 47
+FDEBUG   2021-02-25 11:16:53,913 [main] OracleConnection  - Mumbai
+FDEBUG   2021-02-25 11:16:53,914 [main] OracleConnection  - 6761
+FDEBUG   2021-02-25 11:16:53,914 [main] OracleConnection  - Shangar
+FDEBUG   2021-02-25 11:16:53,914 [main] OracleConnection  - T
+FDEBUG   2021-02-25 11:16:53,914 [main] OracleConnection  - 36
+FDEBUG   2021-02-25 11:16:53,914 [main] OracleConnection  - Coimbatore
+FINFO    2021-02-25 11:35:42,358 [main] OracleConnection  - Connecting to db
+FINFO    2021-02-25 11:35:43,011 [main] OracleConnection  - Executing Statement
+FERROR   2021-02-25 11:35:43,078 [main] OracleConnection  - java.sql.SQLException: Closed Resultset: next
+FINFO    2021-02-25 11:36:18,186 [main] OracleConnection  - Connecting to db
+FINFO    2021-02-25 11:36:18,844 [main] OracleConnection  - Executing Statement
+FERROR   2021-02-25 11:36:18,908 [main] OracleConnection  - java.sql.SQLException: Closed Resultset: next
+FINFO    2021-02-25 11:37:27,295 [main] OracleConnection  - Connecting to db
+FINFO    2021-02-25 11:37:28,020 [main] OracleConnection  - Executing Statement
+FERROR   2021-02-25 11:37:28,108 [main] OracleConnection  - java.sql.SQLException: Closed Resultset: next
+FINFO    2021-02-25 11:37:43,347 [main] OracleConnection  - Connecting to db
+FINFO    2021-02-25 11:37:43,996 [main] OracleConnection  - Executing Statement
+FDEBUG   2021-02-25 11:37:44,064 [main] OracleConnection  - 6142
+FDEBUG   2021-02-25 11:37:44,064 [main] OracleConnection  - Mankaiyarkarasi
+FDEBUG   2021-02-25 11:37:44,064 [main] OracleConnection  - N
+FDEBUG   2021-02-25 11:37:44,064 [main] OracleConnection  - 23
+FDEBUG   2021-02-25 11:37:44,065 [main] OracleConnection  - Bangalore
+FDEBUG   2021-02-25 11:37:44,065 [main] OracleConnection  - 6143
+FDEBUG   2021-02-25 11:37:44,065 [main] OracleConnection  - Kaviya
+FDEBUG   2021-02-25 11:37:44,065 [main] OracleConnection  - N
+FDEBUG   2021-02-25 11:37:44,065 [main] OracleConnection  - 22
+FDEBUG   2021-02-25 11:37:44,065 [main] OracleConnection  - Chennai
+FDEBUG   2021-02-25 11:37:44,066 [main] OracleConnection  - 4666
+FDEBUG   2021-02-25 11:37:44,066 [main] OracleConnection  - Dharani
+FDEBUG   2021-02-25 11:37:44,066 [main] OracleConnection  - K
+FDEBUG   2021-02-25 11:37:44,066 [main] OracleConnection  - 35
+FDEBUG   2021-02-25 11:37:44,066 [main] OracleConnection  - Bangalore
+FDEBUG   2021-02-25 11:37:44,066 [main] OracleConnection  - 6789
+FDEBUG   2021-02-25 11:37:44,066 [main] OracleConnection  - Nagu
+FDEBUG   2021-02-25 11:37:44,067 [main] OracleConnection  - P
+FDEBUG   2021-02-25 11:37:44,067 [main] OracleConnection  - 45
+FDEBUG   2021-02-25 11:37:44,067 [main] OracleConnection  - Pune
+FDEBUG   2021-02-25 11:37:44,067 [main] OracleConnection  - 4544
+FDEBUG   2021-02-25 11:37:44,067 [main] OracleConnection  - Venkatesh
+FDEBUG   2021-02-25 11:37:44,067 [main] OracleConnection  - S
+FDEBUG   2021-02-25 11:37:44,067 [main] OracleConnection  - 26
+FDEBUG   2021-02-25 11:37:44,068 [main] OracleConnection  - Pune
+FDEBUG   2021-02-25 11:37:44,068 [main] OracleConnection  - 3445
+FDEBUG   2021-02-25 11:37:44,068 [main] OracleConnection  - Hari
+FDEBUG   2021-02-25 11:37:44,068 [main] OracleConnection  - Krishna
+FDEBUG   2021-02-25 11:37:44,068 [main] OracleConnection  - 27
+FDEBUG   2021-02-25 11:37:44,068 [main] OracleConnection  - Noida
+FDEBUG   2021-02-25 11:37:44,068 [main] OracleConnection  - 5667
+FDEBUG   2021-02-25 11:37:44,068 [main] OracleConnection  - Amani
+FDEBUG   2021-02-25 11:37:44,068 [main] OracleConnection  - Paladugu
+FDEBUG   2021-02-25 11:37:44,068 [main] OracleConnection  - 22
+FDEBUG   2021-02-25 11:37:44,069 [main] OracleConnection  - Mumbai
+FDEBUG   2021-02-25 11:37:44,069 [main] OracleConnection  - 6767
+FDEBUG   2021-02-25 11:37:44,069 [main] OracleConnection  - Shankar
+FDEBUG   2021-02-25 11:37:44,069 [main] OracleConnection  - R
+FDEBUG   2021-02-25 11:37:44,069 [main] OracleConnection  - 36
+FDEBUG   2021-02-25 11:37:44,069 [main] OracleConnection  - Coimbatore
+FDEBUG   2021-02-25 11:37:44,069 [main] OracleConnection  - 4549
+FDEBUG   2021-02-25 11:37:44,070 [main] OracleConnection  - Naveena
+FDEBUG   2021-02-25 11:37:44,070 [main] OracleConnection  - D
+FDEBUG   2021-02-25 11:37:44,070 [main] OracleConnection  - 47
+FDEBUG   2021-02-25 11:37:44,070 [main] OracleConnection  - Mumbai
+FDEBUG   2021-02-25 11:37:44,070 [main] OracleConnection  - 6761
+FDEBUG   2021-02-25 11:37:44,070 [main] OracleConnection  - Shangar
+FDEBUG   2021-02-25 11:37:44,070 [main] OracleConnection  - T
+FDEBUG   2021-02-25 11:37:44,070 [main] OracleConnection  - 36
+FDEBUG   2021-02-25 11:37:44,071 [main] OracleConnection  - Coimbatore
+FINFO    2021-02-25 12:07:17,787 [main] OracleConnection  - Connecting to db
+FINFO    2021-02-25 12:07:19,252 [main] OracleConnection  - Executing Statement
+FDEBUG   2021-02-25 12:07:19,365 [main] OracleConnection  - 6142
+FDEBUG   2021-02-25 12:07:19,366 [main] OracleConnection  - Mankaiyarkarasi
+FDEBUG   2021-02-25 12:07:19,366 [main] OracleConnection  - N
+FDEBUG   2021-02-25 12:07:19,367 [main] OracleConnection  - 23
+FDEBUG   2021-02-25 12:07:19,367 [main] OracleConnection  - Bangalore
+FDEBUG   2021-02-25 12:07:19,367 [main] OracleConnection  - 6143
+FDEBUG   2021-02-25 12:07:19,367 [main] OracleConnection  - Kaviya
+FDEBUG   2021-02-25 12:07:19,367 [main] OracleConnection  - N
+FDEBUG   2021-02-25 12:07:19,368 [main] OracleConnection  - 22
+FDEBUG   2021-02-25 12:07:19,368 [main] OracleConnection  - Chennai
+FDEBUG   2021-02-25 12:07:19,368 [main] OracleConnection  - 4666
+FDEBUG   2021-02-25 12:07:19,368 [main] OracleConnection  - Dharani
+FDEBUG   2021-02-25 12:07:19,368 [main] OracleConnection  - K
+FDEBUG   2021-02-25 12:07:19,369 [main] OracleConnection  - 35
+FDEBUG   2021-02-25 12:07:19,369 [main] OracleConnection  - Bangalore
+FDEBUG   2021-02-25 12:07:19,369 [main] OracleConnection  - 6789
+FDEBUG   2021-02-25 12:07:19,369 [main] OracleConnection  - Nagu
+FDEBUG   2021-02-25 12:07:19,370 [main] OracleConnection  - P
+FDEBUG   2021-02-25 12:07:19,370 [main] OracleConnection  - 45
+FDEBUG   2021-02-25 12:07:19,370 [main] OracleConnection  - Pune
+FDEBUG   2021-02-25 12:07:19,370 [main] OracleConnection  - 4544
+FDEBUG   2021-02-25 12:07:19,370 [main] OracleConnection  - Venkatesh
+FDEBUG   2021-02-25 12:07:19,370 [main] OracleConnection  - S
+FDEBUG   2021-02-25 12:07:19,371 [main] OracleConnection  - 26
+FDEBUG   2021-02-25 12:07:19,371 [main] OracleConnection  - Pune
+FDEBUG   2021-02-25 12:07:19,371 [main] OracleConnection  - 3445
+FDEBUG   2021-02-25 12:07:19,371 [main] OracleConnection  - Hari
+FDEBUG   2021-02-25 12:07:19,372 [main] OracleConnection  - Krishna
+FDEBUG   2021-02-25 12:07:19,372 [main] OracleConnection  - 27
+FDEBUG   2021-02-25 12:07:19,372 [main] OracleConnection  - Noida
+FDEBUG   2021-02-25 12:07:19,372 [main] OracleConnection  - 5667
+FDEBUG   2021-02-25 12:07:19,373 [main] OracleConnection  - Amani
+FDEBUG   2021-02-25 12:07:19,373 [main] OracleConnection  - Paladugu
+FDEBUG   2021-02-25 12:07:19,373 [main] OracleConnection  - 22
+FDEBUG   2021-02-25 12:07:19,373 [main] OracleConnection  - Mumbai
+FDEBUG   2021-02-25 12:07:19,373 [main] OracleConnection  - 6767
+FDEBUG   2021-02-25 12:07:19,374 [main] OracleConnection  - Shankar
+FDEBUG   2021-02-25 12:07:19,374 [main] OracleConnection  - R
+FDEBUG   2021-02-25 12:07:19,374 [main] OracleConnection  - 36
+FDEBUG   2021-02-25 12:07:19,374 [main] OracleConnection  - Coimbatore
+FDEBUG   2021-02-25 12:07:19,374 [main] OracleConnection  - 4549
+FDEBUG   2021-02-25 12:07:19,375 [main] OracleConnection  - Naveena
+FDEBUG   2021-02-25 12:07:19,375 [main] OracleConnection  - D
+FDEBUG   2021-02-25 12:07:19,375 [main] OracleConnection  - 47
+FDEBUG   2021-02-25 12:07:19,375 [main] OracleConnection  - Mumbai
+FDEBUG   2021-02-25 12:07:19,375 [main] OracleConnection  - 6761
+FDEBUG   2021-02-25 12:07:19,376 [main] OracleConnection  - Shangar
+FDEBUG   2021-02-25 12:07:19,376 [main] OracleConnection  - T
+FDEBUG   2021-02-25 12:07:19,376 [main] OracleConnection  - 36
+FDEBUG   2021-02-25 12:07:19,376 [main] OracleConnection  - Coimbatore
+FINFO    2021-03-03 11:01:17,502 [main] DbConnection  - Connecting to db
+FINFO    2021-03-03 11:01:19,000 [main] DbConnection  - Executing Statement
+FDEBUG   2021-03-03 11:01:19,137 [main] DbConnection  - 6142
+FDEBUG   2021-03-03 11:01:19,137 [main] DbConnection  - Mankaiyarkarasi
+FDEBUG   2021-03-03 11:01:19,137 [main] DbConnection  - N
+FDEBUG   2021-03-03 11:01:19,138 [main] DbConnection  - 23
+FDEBUG   2021-03-03 11:01:19,138 [main] DbConnection  - Bangalore
+FERROR   2021-03-03 11:01:19,139 [main] DbConnection  - java.sql.SQLException: Invalid column name
+FINFO    2021-03-04 14:19:02,540 [main] DbConnection  - Connecting to db
+FINFO    2021-03-04 14:19:04,223 [main] DbConnection  - Executing Statement
+FDEBUG   2021-03-04 14:19:04,374 [main] DbConnection  - 6142
+FDEBUG   2021-03-04 14:19:04,375 [main] DbConnection  - Mankaiyarkarasi
+FDEBUG   2021-03-04 14:19:04,375 [main] DbConnection  - N
+FDEBUG   2021-03-04 14:19:04,375 [main] DbConnection  - 23
+FDEBUG   2021-03-04 14:19:04,375 [main] DbConnection  - Bangalore
+FERROR   2021-03-04 14:19:04,378 [main] DbConnection  - java.sql.SQLException: Invalid column name
+FINFO    2021-03-04 14:19:41,036 [main] DbConnection  - Connecting to db
+FINFO    2021-03-04 14:19:42,217 [main] DbConnection  - Executing Statement
+FDEBUG   2021-03-04 14:19:42,340 [main] DbConnection  - 6142
+FDEBUG   2021-03-04 14:19:42,340 [main] DbConnection  - Mankaiyarkarasi
+FDEBUG   2021-03-04 14:19:42,340 [main] DbConnection  - N
+FDEBUG   2021-03-04 14:19:42,341 [main] DbConnection  - 23
+FDEBUG   2021-03-04 14:19:42,341 [main] DbConnection  - Bangalore
+FDEBUG   2021-03-04 14:19:42,341 [main] DbConnection  - 6143
+FDEBUG   2021-03-04 14:19:42,341 [main] DbConnection  - Kaviya
+FDEBUG   2021-03-04 14:19:42,342 [main] DbConnection  - N
+FDEBUG   2021-03-04 14:19:42,342 [main] DbConnection  - 22
+FDEBUG   2021-03-04 14:19:42,342 [main] DbConnection  - Chennai
+FDEBUG   2021-03-04 14:19:42,342 [main] DbConnection  - 4666
+FDEBUG   2021-03-04 14:19:42,342 [main] DbConnection  - Dharani
+FDEBUG   2021-03-04 14:19:42,343 [main] DbConnection  - K
+FDEBUG   2021-03-04 14:19:42,343 [main] DbConnection  - 35
+FDEBUG   2021-03-04 14:19:42,343 [main] DbConnection  - Bangalore
+FDEBUG   2021-03-04 14:19:42,343 [main] DbConnection  - 6789
+FDEBUG   2021-03-04 14:19:42,343 [main] DbConnection  - Nagu
+FDEBUG   2021-03-04 14:19:42,343 [main] DbConnection  - P
+FDEBUG   2021-03-04 14:19:42,343 [main] DbConnection  - 45
+FDEBUG   2021-03-04 14:19:42,344 [main] DbConnection  - Pune
+FDEBUG   2021-03-04 14:19:42,344 [main] DbConnection  - 4544
+FDEBUG   2021-03-04 14:19:42,344 [main] DbConnection  - Venkatesh
+FDEBUG   2021-03-04 14:19:42,344 [main] DbConnection  - S
+FDEBUG   2021-03-04 14:19:42,344 [main] DbConnection  - 26
+FDEBUG   2021-03-04 14:19:42,344 [main] DbConnection  - Pune
+FDEBUG   2021-03-04 14:19:42,345 [main] DbConnection  - 3445
+FDEBUG   2021-03-04 14:19:42,345 [main] DbConnection  - Hari
+FDEBUG   2021-03-04 14:19:42,345 [main] DbConnection  - Krishna
+FDEBUG   2021-03-04 14:19:42,345 [main] DbConnection  - 27
+FDEBUG   2021-03-04 14:19:42,345 [main] DbConnection  - Noida
+FDEBUG   2021-03-04 14:19:42,346 [main] DbConnection  - 5667
+FDEBUG   2021-03-04 14:19:42,346 [main] DbConnection  - Amani
+FDEBUG   2021-03-04 14:19:42,346 [main] DbConnection  - Paladugu
+FDEBUG   2021-03-04 14:19:42,346 [main] DbConnection  - 22
+FDEBUG   2021-03-04 14:19:42,346 [main] DbConnection  - Mumbai
+FDEBUG   2021-03-04 14:19:42,347 [main] DbConnection  - 6767
+FDEBUG   2021-03-04 14:19:42,347 [main] DbConnection  - Shankar
+FDEBUG   2021-03-04 14:19:42,347 [main] DbConnection  - R
+FDEBUG   2021-03-04 14:19:42,347 [main] DbConnection  - 36
+FDEBUG   2021-03-04 14:19:42,347 [main] DbConnection  - Coimbatore
+FDEBUG   2021-03-04 14:19:42,347 [main] DbConnection  - 4549
+FDEBUG   2021-03-04 14:19:42,348 [main] DbConnection  - Naveena
+FDEBUG   2021-03-04 14:19:42,348 [main] DbConnection  - D
+FDEBUG   2021-03-04 14:19:42,348 [main] DbConnection  - 47
+FDEBUG   2021-03-04 14:19:42,348 [main] DbConnection  - Mumbai
+FDEBUG   2021-03-04 14:19:42,348 [main] DbConnection  - 6761
+FDEBUG   2021-03-04 14:19:42,348 [main] DbConnection  - Shangar
+FDEBUG   2021-03-04 14:19:42,349 [main] DbConnection  - T
+FDEBUG   2021-03-04 14:19:42,349 [main] DbConnection  - 36
+FDEBUG   2021-03-04 14:19:42,349 [main] DbConnection  - Coimbatore
+FDEBUG   2021-03-04 14:19:42,351 [main] DbConnection  - 7140
+FDEBUG   2021-03-04 14:19:42,351 [main] DbConnection  - Preethi
+FDEBUG   2021-03-04 14:19:42,351 [main] DbConnection  - S
+FDEBUG   2021-03-04 14:19:42,352 [main] DbConnection  - 55
+FDEBUG   2021-03-04 14:19:42,352 [main] DbConnection  - Coimbatore
+F
